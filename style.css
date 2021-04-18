@@ -1,0 +1,13 @@
+button {
+  color: black;
+  background-color: lightgray;
+}
+
+.black {
+  color: white;
+  background-color: yellow;
+}
+
+.huge {
+  font-size: 10rem;
+}
