@@ -1,1 +1,1 @@
-document.querySelector("btn").classList.toggle("black");
+document.querySelector("button").classList.toggle("black");
